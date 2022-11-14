@@ -1,1 +1,18 @@
 print("Welcome to Bureau Veritas");
+print("------------------------------------------------------");
+a=10;
+b=20;
+c=a+b;
+print(c);
+print("------------------------------------------------------");
+name=input("what is your name: ");
+age=input("Enter your age: ");
+print("------------------------------------------------------");
+print("Your name is: ", name);
+print("Your age is: ",age);
+print("------------------------------------------------------");
+num1=input("Enter First Number: ");
+num2=input("Enter Second Number: ");
+num3=int(num1)+int(num2);
+print ("sum of two number is: ", num3);
+print("------------------------------------------------------");
