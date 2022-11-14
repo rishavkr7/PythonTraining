@@ -1,0 +1,1 @@
+print("Welcome to Bureau Veritas");
